@@ -1,0 +1,74 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div style="padding: 0px;" id="partial">
+
+        <div class="container">
+            <div class="toolbar">
+                <button id="refresh" class="btn btn-secondary"><span class="fas fa-sync-alt"></span></button>
+            </div>
+            <table id="table"
+                   @*data-toggle="table"*@
+                   class="table-sm text-center"
+                   data-show-refresh="false"
+                   data-show-export="true"
+                   data-export-types="'png', 'csv', 'txt', 'doc', 'excel', 'xlsx', 'pdf'"
+                   data-export-options='{"fileName": "CuadroSituacion_@DateTime.Now.ToString("dd/MM/yyyy")"}'
+                   data-pagination="false"
+                   data-locale="es-AR"
+                   data-silent-sort="false"
+                   data-toolbar=".toolbar"
+                   data-url='/Home/LoadData'
+                   @*data-url='https://examples.wenzhixin.net.cn/examples/bootstrap_table/data'*@
+                   >
+                @*<thead>
+                    <tr>
+                        <th data-field="id">ID</th>
+                        <th data-field="name">Item Name111</th>
+                    </tr>
+                </thead>*@
+            </table>
+        </div>
+
+    </div>
+
+
+@section Scripts {
+    <script>
+        var $table = $('#table');
+        $(function () {
+
+            $table.bootstrapTable({
+                height: 500,
+                columns: [
+                    [   {
+                        title: 'Item ID',
+                        field: 'id',
+                        align: 'center',
+                        valign: 'middle'
+                        },
+                        {
+                        title: 'Item Name111',
+                        field: 'name',
+                        align: 'center',
+                        valign: 'middle'
+                        }
+                    ]
+                ]
+            })
+
+
+            //
+            //$('#refresh').click(function () {
+            //    $table.bootstrapTable('refresh', {
+            //        url: 'new url'
+            //    });
+
+                //$table.bootstrapTable('refresh', {
+                //    url: '/Report/ShowData'
+                //});
+            //});
+        });
+    </script>
+}

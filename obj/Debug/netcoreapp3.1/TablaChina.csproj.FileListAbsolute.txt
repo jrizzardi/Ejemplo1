@@ -1,0 +1,75 @@
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\TablaChina.exe
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\TablaChina.deps.json
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\TablaChina.runtimeconfig.json
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\TablaChina.runtimeconfig.dev.json
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\TablaChina.dll
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\TablaChina.pdb
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\TablaChina.Views.dll
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\TablaChina.Views.pdb
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.csprojAssemblyReference.cache
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.AssemblyInfoInputs.cache
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.AssemblyInfo.cs
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.RazorAssemblyInfo.cache
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.RazorAssemblyInfo.cs
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.TagHelpers.input.cache
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.TagHelpers.output.cache
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.RazorCoreGenerate.cache
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.RazorTargetAssemblyInfo.cache
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.RazorTargetAssemblyInfo.cs
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.Views.pdb
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\staticwebassets\TablaChina.StaticWebAssets.Manifest.cache
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\staticwebassets\TablaChina.StaticWebAssets.xml
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.dll
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.pdb
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.genruntimeconfig.cache
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\TablaChina.csproj.CopyComplete
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Julieta\Source\Repos\TablaChina\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\Julieta\Source\Repos\TablaChina\bin\Debug\netcoreapp3.1\Views\Home\data.json
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.csprojAssemblyReference.cache
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.AssemblyInfoInputs.cache
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.AssemblyInfo.cs
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.RazorAssemblyInfo.cache
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.RazorAssemblyInfo.cs
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.dll
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.pdb
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\Views\Home\data.json
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\TablaChina.exe
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\TablaChina.deps.json
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\TablaChina.runtimeconfig.json
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\TablaChina.runtimeconfig.dev.json
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\TablaChina.dll
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\TablaChina.pdb
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\TablaChina.Views.dll
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\TablaChina.Views.pdb
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.TagHelpers.input.cache
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.TagHelpers.output.cache
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.RazorCoreGenerate.cache
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.RazorTargetAssemblyInfo.cache
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.RazorTargetAssemblyInfo.cs
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.Views.pdb
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\staticwebassets\TablaChina.StaticWebAssets.Manifest.cache
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\staticwebassets\TablaChina.StaticWebAssets.xml
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.genruntimeconfig.cache
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.csproj.CopyComplete
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\Julieta\Source\Repos\TablaChina - 2\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Source\Repos\TablaChina - 2\obj\Debug\netcoreapp3.1\TablaChina.MvcApplicationPartsAssemblyInfo.cache
